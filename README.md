@@ -95,8 +95,6 @@ Example:
 | R² Score | 0.72 | 0.60 |
 | MAE | 0.93 | 1.48 |
 
-> *(Replace these values with your final results.)*
-
 ---
 
 ## 🚀 How to Run
